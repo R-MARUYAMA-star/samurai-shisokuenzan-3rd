@@ -1,0 +1,5 @@
+jouhen=10
+kahen=20
+takasa=5
+menseki=((jouhen+kahen)*takasa)/2
+print(menseki,"㎠")
